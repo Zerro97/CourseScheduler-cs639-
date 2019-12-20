@@ -1,5 +1,5 @@
 # Description
-This is course scheduler react application that was built during cs639 course.
+This is course scheduler react application that was built during cs639 course. It leverages RESTful API calls and dataflow between react components
 
 ## Set Up
 #### `npm install`
