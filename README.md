@@ -11,16 +11,16 @@ Run the above command and the server will start at the localhost:3000
 
 ## Screenshots
 ### Landing Page
-<img src="https://github.com/Zerro97/CourseScheduler-cs639-/blob/master/screenshots/image1.png" alt="Start Screen" height="350px" width="700px"/>
+<img src="https://github.com/Zerro97/CourseScheduler-cs639-/blob/master/screenshots/image1.png" alt="Start Screen" height="350px" width="650px"/>
 
 ### Enrolled Courses Page
-<img src="https://github.com/Zerro97/CourseScheduler-cs639-/blob/master/screenshots/image2.png" alt="Game Play Screen" height="350px" width="700px"/>
+<img src="https://github.com/Zerro97/CourseScheduler-cs639-/blob/master/screenshots/image2.png" alt="Game Play Screen" height="350px" width="650px"/>
 
 ### Recommended Courses Page
-<img src="https://github.com/Zerro97/CourseScheduler-cs639-/blob/master/screenshots/image3.png" alt="Game Over Screen" height="350px" width="700px"/>
+<img src="https://github.com/Zerro97/CourseScheduler-cs639-/blob/master/screenshots/image3.png" alt="Game Over Screen" height="350px" width="650px"/>
 
 ### Cart Page
-<img src="https://github.com/Zerro97/CourseScheduler-cs639-/blob/master/screenshots/image4.png" alt="Game Over Screen" height="350px" width="700px"/>
+<img src="https://github.com/Zerro97/CourseScheduler-cs639-/blob/master/screenshots/image4.png" alt="Game Over Screen" height="350px" width="650px"/>
 
 ### Help Page
-<img src="https://github.com/Zerro97/CourseScheduler-cs639-/blob/master/screenshots/image5.png" alt="Game Over Screen" height="350px" width="700px"/>
+<img src="https://github.com/Zerro97/CourseScheduler-cs639-/blob/master/screenshots/image5.png" alt="Game Over Screen" height="350px" width="650px"/>
